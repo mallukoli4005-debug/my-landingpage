@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">BrandName</div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+            <button class="cta-btn">Sign Up</button>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Design Your Future with Code</h1>
+            <p>Master HTML and CSS by building beautiful, responsive websites from scratch.</p>
+            <a href="#" class="main-btn">Get Started</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="feature-card">
+            <h3>Clean Code</h3>
+            <p>Writing readable and maintainable code is our priority.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Responsive</h3>
+            <p>Your site will look great on phones, tablets, and desktops.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Creative</h3>
+            <p>Unleash your imagination with modern CSS techniques.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 BrandName. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
